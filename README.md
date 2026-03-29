@@ -1,1 +1,22 @@
 # Tempistt.github.io
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tempistt Lockett Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Tempistt Lockett</h1>
+<p>Business Analyst | Data Analyst | Appian Developer</p>
+
+<h2>Projects</h2>
+
+<div>
+    <h3>Operational Performance Dashboard</h3>
+    <p>Analyzed operational data to improve workflow efficiency and identify performance trends.</p>
+    <a href="projects/dashboard.html">View Project</a>
+</div>
+
+</body>
+</html>
